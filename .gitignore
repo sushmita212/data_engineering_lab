@@ -1,0 +1,4 @@
+# Ignore data directories
+pyspark/NYC_taxi_mobility_analysis/data/
+
+.DS_Store
