@@ -1,4 +1,6 @@
 # Ignore data directories
-pyspark/NYC_taxi_mobility_analysis/data/
+**/data/
 
 .DS_Store
+
+venv/
